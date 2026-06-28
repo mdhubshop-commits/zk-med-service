@@ -1,0 +1,9 @@
+node_modules/
+circuits/node_modules/
+backend/node_modules/
+circuits/target/*
+!circuits/target/vk
+*.log
+.env
+.env.local
+.DS_Store

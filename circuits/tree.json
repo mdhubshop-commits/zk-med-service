@@ -1,0 +1,83 @@
+{
+  "root": "0x1ae5b206d9b2dd916ca78ebdd6258cf07659359afe208fef31a90e7dac1bb8c3",
+  "credentials": [
+    {
+      "id": "amina",
+      "fileHash": "0xb4c5a56aad6c867763f39a709aaa9ff3a91527de1bfb200716a0746ef01b68",
+      "docType": "1",
+      "nullifier": "0x2a4311eacf6100f1c7984492a80e43dd303224663010b4f1f6a552a851de9c20",
+      "path": [
+        "0x1b35441a2ec31c588cec8cf3c362e2a0e54c7f4fd9bea363784bbcc3bd16e8ce",
+        "0x066c9b4e3c628f4bcd337cafa22049b33281157c643d6d32421d5918de8ca975",
+        "0x21dbfd1d029bf447152fcf89e355c334610d1632436ba170f738107266a71550",
+        "0x0bcd1f91cf7bdd471d0a30c58c4706f3fdab3807a954b8f5b5e3bfec87d001bb",
+        "0x06e62084ee7b602fe9abc15632dda3269f56fb0c6e12519a2eb2ec897091919d",
+        "0x03c9e2e67178ac638746f068907e6677b4cc7a9592ef234ab6ab518f17efffa0",
+        "0x15d28cad4c0736decea8997cb324cf0a0e0602f4d74472cd977bce2c8dd9923f",
+        "0x268ed1e1c94c3a45a14db4108bc306613a1c23fab68e0466a002dfb0a3f8d2ab"
+      ],
+      "bits": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "kofi",
+      "fileHash": "0xeda07b6aba7484a0a399b2fb871e816aad3a660b4f6fa43cb6984526f6bbe6",
+      "docType": "1",
+      "nullifier": "0x1db54ec0994c730c384c6f6d4e312b51663f38707d36d2cf7fa55dcc98d9064f",
+      "path": [
+        "0x2ffe2bee6dd79eec15903c9a19b7334cf4424777d63f96656d56b3000aaf0c83",
+        "0x066c9b4e3c628f4bcd337cafa22049b33281157c643d6d32421d5918de8ca975",
+        "0x21dbfd1d029bf447152fcf89e355c334610d1632436ba170f738107266a71550",
+        "0x0bcd1f91cf7bdd471d0a30c58c4706f3fdab3807a954b8f5b5e3bfec87d001bb",
+        "0x06e62084ee7b602fe9abc15632dda3269f56fb0c6e12519a2eb2ec897091919d",
+        "0x03c9e2e67178ac638746f068907e6677b4cc7a9592ef234ab6ab518f17efffa0",
+        "0x15d28cad4c0736decea8997cb324cf0a0e0602f4d74472cd977bce2c8dd9923f",
+        "0x268ed1e1c94c3a45a14db4108bc306613a1c23fab68e0466a002dfb0a3f8d2ab"
+      ],
+      "bits": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "zainab",
+      "fileHash": "0x908e9d1d6cc61c0134e91bbd7e90c287a829ef431ee6f20a99999d354425af",
+      "docType": "2",
+      "nullifier": "0x11ed9d36c00390e78615fad121376bab921fe2e48b9148a09eaaf182371aca0f",
+      "path": [
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x0a3170be6e9e52e1059aa246f00dea2ddea00725bf87494eb8259c4f819776dd",
+        "0x21dbfd1d029bf447152fcf89e355c334610d1632436ba170f738107266a71550",
+        "0x0bcd1f91cf7bdd471d0a30c58c4706f3fdab3807a954b8f5b5e3bfec87d001bb",
+        "0x06e62084ee7b602fe9abc15632dda3269f56fb0c6e12519a2eb2ec897091919d",
+        "0x03c9e2e67178ac638746f068907e6677b4cc7a9592ef234ab6ab518f17efffa0",
+        "0x15d28cad4c0736decea8997cb324cf0a0e0602f4d74472cd977bce2c8dd9923f",
+        "0x268ed1e1c94c3a45a14db4108bc306613a1c23fab68e0466a002dfb0a3f8d2ab"
+      ],
+      "bits": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+[package]
+name = "zkmed_verify"
+type = "bin"
+authors = ["Kingnana"]
+
+[dependencies]

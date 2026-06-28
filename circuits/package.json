@@ -1,19 +1,17 @@
 {
-  "name": "backend",
+  "name": "circuits",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node server.js",
-    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "type": "commonjs",
   "dependencies": {
-    "cors": "^2.8.6",
-    "dotenv": "^17.4.2",
-    "express": "^5.2.1"
+    "@aztec/bb.js": "^0.87.0",
+    "js-sha3": "^0.9.3"
   }
 }
